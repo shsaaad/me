@@ -37,6 +37,7 @@ html {
     background-color: #fff;
     text-align: center;
     margin-top: 20px;
+    border: 1px solid #1f4e4a;
   }
 
   .navbar .nav-item .nav-link {
@@ -65,11 +66,11 @@ html {
   }
 
   .header_name {
-    font-size: 45px;
+    font-size: 50px;
   }
 
   .text_bold {
-    font-size: 64px;
+    font-size: 70px;
   }
 
   .banner_img {
