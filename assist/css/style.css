@@ -275,7 +275,7 @@ ul li {
   height: 40px;
 }
 
-.about_button button {
+.about_button a {
   text-transform: uppercase;
   border: 1px solid #3c948b;
   background-color: transparent;
@@ -287,7 +287,7 @@ ul li {
   padding: 8px 20px;
 }
 
-.about_button button:hover {
+.about_button a:hover {
   transition: all linear 0.2s;
   background-color: #3c948b;
   color: white;
