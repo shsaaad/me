@@ -1,3 +1,9 @@
+// Alert Update
+
+alert("The website is still under development. So, you will miss some feature. Sorry For This 🙏 ");
+
+
+
 // PRELOADER PLUGIN JS PART HERE 
 
 $('.js-preloader').preloadinator({
