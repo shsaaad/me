@@ -1,6 +1,6 @@
-// Alert Update
+// // Alert Update
 
-alert("The website is still under development. So, you will miss some feature. Sorry For This 🙏 ");
+// alert("The website is still under development. So, you will miss some feature. Sorry For This 🙏 ");
 
 
 
